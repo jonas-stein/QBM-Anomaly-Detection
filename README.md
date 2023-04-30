@@ -14,8 +14,6 @@ standard python.
 <br><br>
 In the following you can find some information on how to set this up and how to use it.
 
-[[_TOC_]]
-
 ## Setup of Python
 
 Since Python as well as versions of modules and their dependence on each other can sometimes be tricky, we provide files to allow for easy setup.
