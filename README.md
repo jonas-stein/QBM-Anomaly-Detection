@@ -3,7 +3,7 @@
 This project provides a way to do Anomaly Detection in an unsupervised manner 
 with a semi-restricted Quantum Boltzmann Machine (QBM) and a Restricted Boltzmann Machine (RBM), respectively.
 It contains the code used as well as the results presented in the manuscript titled "Exploring Unsupervised Anomaly Detection with Quantum Boltzmann Machines in Fraud Detection" by Jonas Stein, Daniëlle Schuman, Magdalena Benkard, Thomas Holger, Wanja Sajko, Micheal Kölle, Jonas Nüßlein, Leo Sünkel, Oliver Salomon and Claudia Linnhoff-Popien,
-which is being submitted to the [IEEE Quantum Week 2023](https://qce.quantum.ieee.org/2023) as a short paper.
+which is being submitted to the [IEEE Quantum Week 2023](https://qce.quantum.ieee.org/2023) as a short paper. Find also the [preprint on arXiv](https://arxiv.org/pdf/2306.04998.pdf).
 As we make it easy to compare the classic and the quantum approach, this code should be usable to reproduce the results.
 A RBM is a type of neural network and we expect the quantum version to eventually take less training time as well as produce better results.
 <br><br>
